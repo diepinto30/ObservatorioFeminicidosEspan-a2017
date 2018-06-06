@@ -1,0 +1,20 @@
+.name {
+    border-bottom: 4px solid red;
+    text-transform: uppercase;
+    width: 80%;
+    font-size: 1.3em;
+    height: auto;
+}
+
+
+.dateRegistered{
+    
+}
+
+.div-contenedor {
+    overflow: scroll;
+    
+}
+
+
+

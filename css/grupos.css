@@ -1,0 +1,18 @@
+.name {
+    border-bottom: 4px solid red;
+    text-transform: uppercase;
+    width: 80%;
+    font-size: 1.3em;
+    
+}
+
+
+.dateRegistered{
+    
+}
+
+.div-contenedor {
+    overflow: scroll;
+    
+}
+
